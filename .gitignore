@@ -3,3 +3,4 @@
 .env.production
 node_modules/
 *.log
+lire .en 
